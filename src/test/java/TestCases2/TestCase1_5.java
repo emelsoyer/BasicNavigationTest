@@ -95,8 +95,8 @@ public class TestCase1_5 {
 
 
 
- /*   @AfterMethod
+   @AfterMethod
     public void teardown() {
         driver.quit();
-    }*/
+    }
 }
